@@ -1,0 +1,5 @@
+,
+  "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "custom/poop"},
+  {"predicate": {"custom_model_data":2}, "model": "custom/lol"}
+]
